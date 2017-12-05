@@ -2,9 +2,7 @@
 
 ## **Did you find a bug?**
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/justdotJS/EasyRPC/issues).
-
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/justdotJS/EasyRPC/issues/new). Be sure to include a **title and clear description**, and as much relevant information as possible.
+* All of our Issues / Bugs are handled on the [Discord chat](https://discord.gg/MpnbrX7) in the support channel! 
 
 ## **Did you write a patch that fixes a bug?**
 
@@ -14,7 +12,7 @@
 
 ## **Do you intend to add a new feature or change an existing one?**
 
-* [Open a new issue](https://github.com/justdotJS/EasyRPC/issues/new). Be sure to include a **title and clear description**, and as much relevant information as possible. Explain why it's a good change, anything that will break (e.g. old config won't work) and if it has any negative changes.
+* Join the [Discord chat](https://discord.gg/MpnbrX7) and go to the `#suggest` chat. make sure to include a **title and clear description**, and as much relevant information as possible. Explain why it's a good change, anything that will break (e.g. old config won't work) and if it has any negative changes.
 
 ## **Do you have questions about the source code?**
 
