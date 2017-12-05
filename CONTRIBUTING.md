@@ -2,7 +2,7 @@
 
 ## **Did you find a bug?**
 
-* All of our Issues / Bugs are handled on the [Discord chat](https://discord.gg/MpnbrX7) in the support channel! 
+* All of our Issues / Bugs are handled on the [Discord chat](https://discord.gg/MpnbrX7) in the `#support` channel! 
 
 ## **Did you write a patch that fixes a bug?**
 
